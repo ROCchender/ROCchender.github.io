@@ -1,0 +1,30 @@
+body .layer-ext-cdhomepage .layui-layer-title{
+    color: transparent;
+    border: 0px;
+    display: none;
+}
+body .layui-ext-cdhomepage .layui-layer-btn{}
+body .layui-ext-cdhomepage .layui-layer-btn a{}
+.layer-ext-cdhomepage{
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+}
+/* .layui-layer-setwin{
+    right: -50px;
+    width: 50px;
+    background: transparent;
+    color: #fff;
+}
+
+.layui-layer-setwin .layui-layer-close{
+    background-color: #00000080;
+    width: 30px;
+    height: 30px;
+}
+.layui-layer-setwin .layui-layer-min cite{
+    background-color: #fff;
+    width: 15px;
+    left: 17.5px;
+    height: 2px;
+} */
